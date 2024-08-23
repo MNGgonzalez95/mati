@@ -1,0 +1,145 @@
+{
+    "specialProducts": {
+    "featured": [
+      {
+        "id": 1,
+        "name": "Featured Product 1",
+        "slug": "featured-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4373_1.png" },
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4373_2.png" }
+        ],
+        "ratings": 4.5,
+        "price": [100, 100],
+        "variants": []
+      },
+      {
+        "id": 2,
+        "name": "Featured Product 2",
+        "slug": "featured-product-2",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4374_1.png" }
+        ],
+        "ratings": 4.0,
+        "price": [150, 150],
+        "variants": []
+      },
+      {
+        "id": 3,
+        "name": "Featured Product 3",
+        "slug": "featured-product-3",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4375_1.png" }
+        ],
+        "ratings": 4.2,
+        "price": [200, 200],
+        "variants": []
+      }
+    ],
+    "bestSelling": [
+      {
+        "id": 4,
+        "name": "Best Selling Product 1",
+        "slug": "best-selling-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4376_1.png" }
+        ],
+        "ratings": 4.7,
+        "price": [120, 120],
+        "variants": []
+      },
+      {
+        "id": 5,
+        "name": "Best Selling Product 1",
+        "slug": "best-selling-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4376_1.png" }
+        ],
+        "ratings": 4.7,
+        "price": [120, 120],
+        "variants": []
+      },
+      {
+        "id": 6,
+        "name": "Best Selling Product 1",
+        "slug": "best-selling-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4376_1.png" }
+        ],
+        "ratings": 4.7,
+        "price": [120, 120],
+        "variants": []
+      }
+    ],
+    "latest": [
+      {
+        "id": 7,
+        "name": "Latest Product 1",
+        "slug": "latest-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4377_1.png" }
+        ],
+        "ratings": 4.3,
+        "price": [130, 130],
+        "variants": []
+      },
+      {
+        "id": 8,
+        "name": "Latest Product 1",
+        "slug": "latest-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4377_1.png" }
+        ],
+        "ratings": 4.3,
+        "price": [130, 130],
+        "variants": []
+      },
+      {
+        "id": 9,
+        "name": "Latest Product 1",
+        "slug": "latest-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4377_1.png" }
+        ],
+        "ratings": 4.3,
+        "price": [130, 130],
+        "variants": []
+      }
+    ],
+    "topRated": [
+      {
+        "id": 10,
+        "name": "Top Rated Product 1",
+        "slug": "top-rated-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4378_1.png" }
+        ],
+        "ratings": 4.8,
+        "price": [140, 140],
+        "variants": []
+      },
+      {
+        "id": 11,
+        "name": "Top Rated Product 1",
+        "slug": "top-rated-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4378_1.png" }
+        ],
+        "ratings": 4.8,
+        "price": [140, 140],
+        "variants": []
+      },
+      {
+        "id": 12,
+        "name": "Top Rated Product 1",
+        "slug": "top-rated-product-1",
+        "small_pictures": [
+          { "url": "https://novogar.com.ar/public/images/productos/producto_4378_1.png" }
+        ],
+        "ratings": 4.8,
+        "price": [140, 140],
+        "variants": []
+      }
+    ]
+  }
+}

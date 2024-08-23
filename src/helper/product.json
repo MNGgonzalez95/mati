@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Tostadora KitchenAid 4 panes rojo LKMT5115RER",
+    "nota": "Elegante tostadora KitchenAid de 4 panes en un vibrante color rojo, ideal para darle un toque moderno a tu cocina.",
+    "dealPrice": 5000,
+    "regularPrice": 7000,
+    "discount": 10,
+    "description": "La Tostadora KitchenAid en un vibrante rojo combina diseño elegante y funcionalidad, ideal para 4 panes. Perfecta para cualquier cocina moderna.",
+    "stock": 5,
+    "sku": "LKMT5115RER",
+    "brand": "samsung",
+    "categories": [
+      {
+        "name": "Tostadoras",
+        "id": "2"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "tamaño",
+        "value": "500x600"
+      },
+      {
+        "name": "pulgadas",
+        "value": "50'"
+      }
+    ],
+    "variants": [
+      {
+        "id": 2
+      }
+    ],
+    "images": [
+      {
+        "id": 6363749572,
+        "index": 1,
+        "thumbnailUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/thumbnail.jpg",
+        "standardUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/standard_resolution.jpg",
+        "lowResolutionUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/low_resolution.jpg",
+        "originalImage": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/original_image.jpg",
+        "url": "http://whirlpoolarg.vteximg.com.br/arquivos/ids/161609/LKMT5115RER-3.jpg?v=637548038581800000",
+        "status": "PROCESSED",
+        "main": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tostadora KitchenAid 4 panes rojo LKMT5115RER",
+    "nota": "Elegante tostadora KitchenAid de 4 panes en un vibrante color rojo, ideal para darle un toque moderno a tu cocina.",
+    "dealPrice": 5000,
+    "regularPrice": 7000,
+    "discount": 10,
+    "description": "La Tostadora KitchenAid en un vibrante rojo combina diseño elegante y funcionalidad, ideal para 4 panes. Perfecta para cualquier cocina moderna.",
+    "stock": 5,
+    "sku": "LKMT5115RER",
+    "brand": "samsung",
+    "categories": [
+      {
+        "name": "Tostadoras",
+        "id": "2"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "tamaño",
+        "value": "500x600"
+      },
+      {
+        "name": "pulgadas",
+        "value": "50'"
+      }
+    ],
+    "variants": [
+      {
+        "id": 2
+      }
+    ],
+    "images": [
+      {
+        "id": 6363749572,
+        "index": 1,
+        "thumbnailUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/thumbnail.jpg",
+        "standardUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/standard_resolution.jpg",
+        "lowResolutionUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/low_resolution.jpg",
+        "originalImage": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/original_image.jpg",
+        "url": "http://whirlpoolarg.vteximg.com.br/arquivos/ids/161609/LKMT5115RER-3.jpg?v=637548038581800000",
+        "status": "PROCESSED",
+        "main": true
+      }
+    ]
+  },
+  {
+      "id": 3,
+      "name": "Tostadora KitchenAid 4 panes rojo LKMT5115RER",
+      "nota": "Elegante tostadora KitchenAid de 4 panes en un vibrante color rojo, ideal para darle un toque moderno a tu cocina.",
+      "dealPrice": 5000,
+      "regularPrice": 7000,
+      "discount": 10,
+      "description": "La Tostadora KitchenAid en un vibrante rojo combina diseño elegante y funcionalidad, ideal para 4 panes. Perfecta para cualquier cocina moderna.",
+      "stock": 5,
+      "sku": "LKMT5115RER",
+      "brand": "samsung",
+      "categories": [
+        {
+          "name": "Tostadoras",
+          "id": "2"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "tamaño",
+          "value": "500x600"
+        },
+        {
+          "name": "pulgadas",
+          "value": "50'"
+        }
+      ],
+      "variants": [
+        {
+          "id": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 6363749572,
+          "index": 1,
+          "thumbnailUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/thumbnail.jpg",
+          "standardUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/standard_resolution.jpg",
+          "lowResolutionUrl": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/low_resolution.jpg",
+          "originalImage": "http://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259033491./D5AA8603935CEF585762B6A5F2780CE3/original_image.jpg",
+          "url": "http://whirlpoolarg.vteximg.com.br/arquivos/ids/161609/LKMT5115RER-3.jpg?v=637548038581800000",
+          "status": "PROCESSED",
+          "main": true
+        }
+      ]
+    }
+]
